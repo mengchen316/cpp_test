@@ -1,0 +1,4 @@
+# ninja log v5
+0	361	1668354985719136438	CMakeFiles/c___test2.dir/main.cpp.o	e1cfdc2881b97178
+361	399	1668354985758398063	c___test2	28d007cb6451e9a6
+1	271	1668356665256756365	CMakeFiles/c___test2.dir/test_struct.cpp.o	ee65a2d3d7ca1e7c
