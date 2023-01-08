@@ -12,8 +12,6 @@ struct Student {
 };
 int main(){
     Student S1;
-
-
     S1.name="zhangsan";
     S1.age=18;
     S1.score=100;
